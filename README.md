@@ -9,8 +9,5 @@
 - https://ruthcoffee.elsamtechnologies.com
 
 
-
-
-
 # Recent UI & Logo Design Project File links
 - https://drive.google.com/file/d/1YhzvIWJqdiviZifD5OV3Dj3ghZF3L0jE/view?usp=sharing
