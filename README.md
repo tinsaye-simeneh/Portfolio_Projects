@@ -1,4 +1,4 @@
-# Recent Website project links
+# Recent Website projects link
 - http://test.tin.et
 - https://elsamtechnologies.com
 - https://lesew.elsamtechnologies.com
@@ -8,7 +8,7 @@
 - username: admin
 - Password: admin123
 
-# Recent UI & Logo Design Project File links
+# Recent UI & Logo Design Project Files link
 - https://drive.google.com/file/d/1YhzvIWJqdiviZifD5OV3Dj3ghZF3L0jE/view?usp=sharing
 
 # Simple Android Apps Developed By Using Java - Processing Framework (https://Processing.org)
