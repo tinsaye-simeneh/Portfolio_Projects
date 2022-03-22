@@ -2,7 +2,7 @@
 - https://tin.elsamtechnologies.com/
 - https://chatapp.elsamtechnologies.com
 - https://etconstruction.elsamtechnologies.com
-- https://charity.elsamtechnologies.com
+- https://lesew.elsamtechnologies.com
 - https://ruthcoffee.elsamtechnologies.com
 - https://elsamtechnologies.com
 - https://hospital.elsamtechnologies.com
