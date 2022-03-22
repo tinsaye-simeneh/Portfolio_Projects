@@ -8,8 +8,8 @@
 - https://hospital.elsamtechnologies.com
 
 
-- For https://hospital.elsamtechnologies.com Website, You can use 
-- username: admin
+For https://hospital.elsamtechnologies.com Website, You can use 
+- Username: admin
 - Password: admin123
 
 # Recent UI & Logo Design Project Files link
