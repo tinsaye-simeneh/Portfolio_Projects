@@ -1,5 +1,5 @@
 # Recent Website projects link
-- https://tin.elsamtechnoglogies.com
+- https://tin.elsamtechnologies.com/
 - https://chatapp.elsamtechnologies.com
 - https://etconstruction.elsamtechnologies.com
 - https://charity.elsamtechnologies.com
