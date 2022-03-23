@@ -12,8 +12,11 @@ For https://hospital.elsamtechnologies.com Website, You can use
 - Username: admin
 - Password: admin123
 
-# Recent UI & Logo Design Project Files link
-- https://drive.google.com/file/d/1YhzvIWJqdiviZifD5OV3Dj3ghZF3L0jE/view?usp=sharing
+# Recent Designing [UI, Logo, Banner]  Projects link
+- https://drive.google.com/drive/folders/1KBpyXWFPkyN3RgV16LR8oEmVyw15BK1j?usp=sharing
 
 # Simple Android Apps Developed By Using Java - Processing Framework (https://Processing.org)
-- https://github.com/tinsaye-simeneh/Project_links/tree/main/Android_Apps
+- https://github.com/tinsaye-simeneh/Celebrities_mouse
+- https://github.com/tinsaye-simeneh/etiovid
+- https://github.com/tinsaye-simeneh/etcalc
+- https://github.com/tinsaye-simeneh/Mind_Tricks
