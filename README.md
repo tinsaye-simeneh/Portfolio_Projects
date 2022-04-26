@@ -5,7 +5,7 @@
 - https://lesew.elsamtechnologies.com
 - https://ruthcoffee.elsamtechnologies.com
 - https://elsamtechnologies.com
-- https://hospital.elsamtechnologies.com
+- https://hospital.elsamtechnologies.com - Username: admin | Password: admin123
 
 
 # Recent Designing [UI, Logo, Banner] Projects link
