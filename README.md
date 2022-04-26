@@ -8,10 +8,6 @@
 - https://hospital.elsamtechnologies.com
 
 
-For https://hospital.elsamtechnologies.com Website, You can use 
-- Username: admin
-- Password: admin123
-
 # Recent Designing [UI, Logo, Banner] Projects link
 - https://drive.google.com/drive/folders/1KBpyXWFPkyN3RgV16LR8oEmVyw15BK1j?usp=sharing
 
