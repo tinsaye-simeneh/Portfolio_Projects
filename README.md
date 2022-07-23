@@ -1,18 +1,21 @@
 # Recent Website Development projects link
-- https://tin.elsamtechnologies.com/
-- https://chatapp.elsamtechnologies.com
-- https://etconstruction.elsamtechnologies.com
-- https://lesew.elsamtechnologies.com
-- https://ruthcoffee.elsamtechnologies.com
-- https://elsamtechnologies.com
-- https://hospital.elsamtechnologies.com - Username: admin | Password: admin123
+- [https://uni-share.vercel.app/](https://uni-share.vercel.app/)
 
+- [https://charity-kappa.vercel.app/](https://charity-kappa.vercel.app/)
 
-# Recent Designing [UI, Logo, Banner] Projects link
-- https://drive.google.com/drive/folders/1KBpyXWFPkyN3RgV16LR8oEmVyw15BK1j?usp=sharing
+- [https://ruth-coffee.vercel.app/](https://ruth-coffee.vercel.app/)
 
-# Simple Android Apps Developed By Using Java - Processing Framework (https://Processing.org)
-- https://github.com/tinsaye-simeneh/Celebrities_mouse
-- https://github.com/tinsaye-simeneh/etiovid
-- https://github.com/tinsaye-simeneh/etcalc
-- https://github.com/tinsaye-simeneh/Mind_Tricks
+- [https://et-construction.vercel.app/](https://et-construction.vercel.app/)
+
+- [https://tin-et.vercel.app/](https://tin-et.vercel.app/)
+
+- [https://simple-design-pi.vercel.app/](https://simple-design-pi.vercel.app/)
+
+- [https://kofi-nine.vercel.app/](https://kofi-nine.vercel.app/)
+
+- [hospital.elsamtechnologies.com](http://hospital.elsamtechnologies.com/)
+
+- [https://chatapp.elsamtechnologies.com/](https://chatapp.elsamtechnologies.com/)
+
+# Recent Designing - UI/UX Projects link
+- https://www.behance.net/tinsayesimeneh
